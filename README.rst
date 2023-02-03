@@ -29,15 +29,18 @@
 
 |
 
-==========
-toshiba-ac
-==========
+=====================
+Toshiba-ac-ir-codegen
+=====================
 
 
-    Add a short description here!
+    A Toshiba AC IR code generator to control your ACs.
 
 
-A longer description of your project goes here...
+This code is inspired / backport of cli tool written in Golang by Mario Hros (source on https://github.com/k3a/toshiba-ac)
+It aimed to be used in Home Assistant via LocalTuya integration (to be added)
+
+For now it provide a simple API to generate the code and to format it so that it is ready to be used with TinyTuya.
 
 
 .. _pyscaffold-notes:
