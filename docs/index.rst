@@ -1,8 +1,8 @@
 ==========
-toshiba-ac
+Toshiba-AC
 ==========
 
-This is the documentation of **toshiba-ac**.
+This is the documentation of **Toshiba-AC**.
 
 .. note::
 

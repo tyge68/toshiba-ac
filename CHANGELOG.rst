@@ -5,6 +5,4 @@ Changelog
 Version 0.1
 ===========
 
-- Feature A added
-- FIX: nasty bug #1729 fixed
-- add your changes here!
+- Initial Implementation inspired by the Golang version on https://github.com/k3a/toshiba-ac
