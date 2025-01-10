@@ -1,4 +1,4 @@
-from toshiba-ac-ir-codegen.generator import IRCodeGenerator, UnitType, ModeType, SpecialModeType, FanType
+from toshiba_ac_ir_codegen.generator import IRCodeGenerator, UnitType, ModeType, SpecialModeType, FanType
 
 __author__ = "Thierry Ygé"
 __credits__ = "K3A.me"
